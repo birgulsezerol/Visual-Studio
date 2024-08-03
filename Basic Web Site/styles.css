@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4682b4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#video {
+    margin: 20px auto;
+    text-align: center;
+}
+
+#animation {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.animated-text {
+    font-size: 24px;
+    color: #333;
+}
